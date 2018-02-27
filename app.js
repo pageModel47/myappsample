@@ -1,0 +1,1 @@
+console.log("Jump jump for jumpingBEANS.");
